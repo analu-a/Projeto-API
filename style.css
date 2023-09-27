@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-color: #5096FF;
+    background-image: url(./img/fundo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+header{
+    height: 14vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header img{
+    height: 25vh;
+    width: 25vw;
+}
+
+main{
+    height: 86vh;
+    display: flex;
+    justify-content: center;
+    
+}
+button{
+    height: 6%;
+    width: 10%;
+    position: absolute;
+    bottom: 48%;
+    border: none;
+    background-color: #F2D06E;
+    border-radius: 10em;
+    font-family:'Titan One', cursive;
+    font-size: 2em;
+    box-shadow: 2px 2px 4px 1px rgb(99, 97, 97);
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+h2{
+    display: flex;
+    position: absolute;
+    bottom: 10em;
+    color: #1F2B58;
+    font-family: 'Titan One', cursive;
+    font-size: 1.5em;
+}
