@@ -7,13 +7,39 @@
 body{
     width: 100vw;
     height: 100vh;
+    background-color: #D3E5FF;
+    background-image: url(./img/fundo.png);
 }
 
-.translate input{
+header{
+    height: 12vh;
+}
 
+main{
+    height: 88vh;
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.translate{
     width: 20vw;
     height: 20vh;
+}
+
+textarea{
+    
+    width: 20vw;
+    height: 30vh;
+    border: none;
+    border-radius: 2em;
+    padding: 16px;
+    background-color: #FEFFDF;
+}
+
+h2{
+    font-size: 4em;
+    text-align: center;
+    color: #1F2B58;
 }
