@@ -19,3 +19,9 @@ async function mostrarTraducao(){
 
 translateInput.addEventListener('focusout', mostrarTraducao)
 
+translateInput.addEventListener('keypress', (event) => {
+    if(event.code === 'Enter'){
+        mostrarTraducao()
+    }
+})
+
