@@ -24,22 +24,33 @@ main{
 }
 
 .translate{
-    width: 20vw;
-    height: 20vh;
+    width: 30vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 textarea{
     
-    width: 20vw;
-    height: 30vh;
+    width: 30vw;
+    height: 40vh;
+    display: flex;
     border: none;
     border-radius: 2em;
     padding: 16px;
     background-color: #FEFFDF;
+    align-items: center;
+    justify-content: center;
 }
 
 h2{
     font-size: 4em;
     text-align: center;
     color: #1F2B58;
+}
+
+.pilhaminions img{
+    width: 10vw;
+    height: 20vh;
 }

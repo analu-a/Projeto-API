@@ -17,36 +17,58 @@ body{
 h2{
     font-family: 'Titan One', cursive;
     text-align: center;
-    font-size: 4em;
+    font-size: 3em;
     color: #1F2B58;
 }
 
+header{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 main{
-    height: 92vh ;
+    height: 80vh ;
     display: flex;
     justify-content: center;
-    align-items: center;
-    justify-content: space-between
-
-
-}
-.kevin{
-    height: 60vh;
-    /* width: 20vw; */
-    display: flex;
-    background-color: pink;
+    align-items: start;
+    justify-content: space-evenly;
 }
 
-.stuart{
+.container-minion{
     height: 60vh;
-    /* width: 20vw; */
+    width: 30%;
+}
+
+.container-minion button{
+    height: 100%;
+    width: 100%;
     display: flex;
-    background-color: pink;
+    align-items: end;
+    padding-bottom: 24px;
+    background-color: transparent;
+    border: none;
+    justify-content: center;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.kevin img{
+    height: 90%;
+}
+
+.stuart img{
+   height: 70%;
 }
 
 .bob img{
-    height: 60vh;
-    /* width: 20vw; */
-    display: flex;
-    background-color: pink;
+    height: 60%;
+}
+
+.container-minion h3{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Titan One', cursive;
+    color: #1F2B58;
 }
