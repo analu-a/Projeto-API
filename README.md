@@ -19,10 +19,12 @@
  
  Inserir API ✔
  
- Responsividade (incompleto)
+ Responsividade (em desenvolvimento)
 
 
  # API UTILIZADA⚡
+
+ https://funtranslations.com/api/minion
 
 
 
