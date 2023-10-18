@@ -5,7 +5,7 @@
 # SOBRE⭐
 ▪ Projeto desenvolvido com a orientação do professor Fernando Leonid na materia de Programação Web Front-End (PWFE) do curso de Desenvolvimento de sistemas no SENAI-Jandira
 
-▪ Esse projeto captura frases e textos em inglês e traduz para a linguagem dos minios
+▪ Esse projeto captura frases e textos em inglês e traduz para a linguagem dos Minions
 
 
 # ETAPAS🌈
