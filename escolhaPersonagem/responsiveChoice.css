@@ -1,0 +1,46 @@
+@media (min-width: 1024px){
+
+
+    .kevin img{
+        height: 60vh;
+    }
+
+    .stuart img{
+        height: 40vh;
+    }
+
+    .bob img{
+        height: 30vh;
+    }
+}
+
+@media (max-width: 767px){
+
+    
+    .kevin img{
+        height: 50vh;
+    }
+
+    .stuart img{
+        height: 30vh;
+    }
+
+    .bob img{
+        height: 22vh;
+    }
+}
+
+@media (max-width: 1023px){
+    
+    .kevin img{
+        height: 50vh;
+    }
+
+    .stuart img{
+        height: 30vh;
+    }
+
+    .bob img{
+        height: 20vh;
+    }
+}
