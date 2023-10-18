@@ -3,12 +3,23 @@
 
 
 # SOBRE⭐
-.Projeto desenvolvido com a orientação do professor Fernando Leonid na materia de Programação Web Front-End (PWFE) do curso de Desenvolvimento de sistemas no SENAI-Jandira
+▪ Projeto desenvolvido com a orientação do professor Fernando Leonid na materia de Programação Web Front-End (PWFE) do curso de Desenvolvimento de sistemas no SENAI-Jandira
 
-.Esse projeto captura frases e textos em inglês e traduz para a linguagem dos minios
+▪ Esse projeto captura frases e textos em inglês e traduz para a linguagem dos minios
 
 
 # ETAPAS🌈
+ Selecionar API ✔ 
+ Selecionar ideias de design ✔
+ Prototipar (Figma) ✔
+ Construir HTML e CSS ✔
+ Inserir API ✔
+ Responsividade (incompleto)
+
+
+ # API UTILIZADA⚡
+
+
 
 
 
