@@ -10,10 +10,15 @@
 
 # ETAPAS🌈
  Selecionar API ✔ 
+ 
  Selecionar ideias de design ✔
+
  Prototipar (Figma) ✔
+ 
  Construir HTML e CSS ✔
+ 
  Inserir API ✔
+ 
  Responsividade (incompleto)
 
 
